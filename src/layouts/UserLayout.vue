@@ -20,6 +20,7 @@
 <style scoped>
 #userLayout {
   text-align: center;
+  background-color: #efefef;
 }
 
 #userLayout .logo {
@@ -35,12 +36,15 @@
 }
 
 #userLayout .content {
-  /*
   background: linear-gradient(to right, #b5f8fa, #fff);
+  /*
+  background: url("https://i.ibb.co/W02pPMR/109363684-p0.png") 0 0 / 100% 100%;
   */
-  background: url("file:///F:/wallpaper/tumblr_ncnbpirLwf1rbnx7io2_500.webp") 0%
-    0%/100% 100%;
-  margin-bottom: 16px;
+  /*  background: url("file:///F:/wallpaper/tumblr_ncnbpirLwf1rbnx7io2_500.webp") 0
+      0/50% 100%;*/
+  /*  background: url("file:///F:/wallpaper/tumblr_ncnbpirLwf1rbnx7io2_500.png") 0 0/50%
+      100%;*/
+  margin-bottom: 1px;
   padding: 20px;
 }
 
